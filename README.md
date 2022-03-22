@@ -9,6 +9,13 @@
 <a href="https://discordapp.com/users/LordDan45#4188/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
 <a href="mailto:danfoot4567@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"> </a>
 
+## About me
+- 📚I'm a Computer Science student at Tec. de Monterrey
+- 🖥️I'm a programmer at [Vanttec][Vanttec]
+- 😎Currently developing industrial software
+- ✅Fun Fact: I'm a TKD Black Belt :facepunch:
+- 💻I'm currently learning about **Software Design** 
+
 ## Languages and tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,3 +46,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=monokai"  width="410" /></p>
 </div>
 
+[Vanttec]: https://www.vanttec.com
