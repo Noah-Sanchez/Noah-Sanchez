@@ -21,6 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ](https://img.shields.io/badge/intellijidea-143?style=for-the-badge&logo=intellijidea&logoColor=black&color=black&labelColor=blue)
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
 ![Eclipse](https://img.shields.io/badge/eclipse-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -28,7 +29,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23FF6F00.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-%23013243.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing4-%23D00000.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%0000FF000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%000FF000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 
 ## GitHub Stats
