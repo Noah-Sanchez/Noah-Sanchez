@@ -28,7 +28,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23FF6F00.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-%23013243.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing4-%23D00000.svg?style=for-the-badge&logo=Processing4&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23D00000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23DFF000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## GitHub Stats
 <div>
