@@ -27,12 +27,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23FF6F00.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-%23013243.svg?style=for-the-badge&logo=android&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing4-%23D00000.svg?style=for-the-badge&logo=Processing4&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23DFF000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing4-%23D00000.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%0000FF000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+
 
 ## GitHub Stats
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noe-Sanchez&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=4"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noe-Sanchez&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=4"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=monokai"  width="410" /></p>
 </div>
 
