@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-%23575757.svg?style=for-the-badge&logo=matlab&logoColor=important)
+![Matlab](https://img.shields.io/badge/Matlab-%23575757.svg?style=for-the-badge&logo=Matlab&logoColor=important)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23FF6F00.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-%23013243.svg?style=for-the-badge&logo=android&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-%23D00000.svg?style=for-the-badge&logo=Processing&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing4-%23D00000.svg?style=for-the-badge&logo=Processing4&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23D00000.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## GitHub Stats
