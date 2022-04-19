@@ -1,4 +1,4 @@
-### Hi I’m @Noe-Sanchez :smile: 
+### Hi, I’m @Noe-Sanchez :smile: 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Noe-Sanchez&theme=monokai&column=6&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
