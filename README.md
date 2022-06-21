@@ -12,9 +12,9 @@
 ## About me
 - 📚I'm a Computer Science student at Tec. de Monterrey
 - 🖥️I'm a programmer at [Vanttec][Vanttec]
-- 😎Currently developing industrial software
+- 😎Currently developing an autonomous drone
 - ✅Fun Fact: I'm a TKD Black Belt :facepunch:
-- 💻I'm currently learning about **Software Design** 
+- 💻I'm currently learning about **Control theory** 
 
 ## Languages and tools
 
@@ -46,4 +46,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=monokai"  width="410" /></p>
 </div>
 
-[Vanttec]: https://www.vanttec.com
+[Vanttec]: https://web-vanttec.web.app
