@@ -12,7 +12,7 @@
 ## About me
 - 📚I'm a Computer Science student at Tec. de Monterrey
 - 🖥️I'm a programmer at [Vanttec][Vanttec]
-- 😎Currently developing an autonomous drone
+- 😎Currently developing autonomous drones
 - ✅Fun Fact: I'm a TKD Black Belt :facepunch:
 - 💻I'm currently learning about **Control theory** 
 
