@@ -42,8 +42,8 @@
 
 ## GitHub Stats
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noe-Sanchez&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=4"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=monokai"  width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noe-Sanchez&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Noe-Sanchez&show_icons=true&locale=en&theme=chartreuse-dark"  width="410" /></p>
 </div>
 
 [Vanttec]: https://web-vanttec.web.app
