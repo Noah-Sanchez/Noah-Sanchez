@@ -11,7 +11,7 @@
 <a href="mailto:danfoot4567@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"> </a>
 
 ## About me
-- 📚I'm a Computer Science student at Tec. de Monterrey
+- 📚I'm a Robotics student at Tec. de Monterrey
 - 🖥️I'm a programmer at [Vanttec][Vanttec]
 - 😎Currently developing autonomous drones
 - ✅Fun Fact: I'm a TKD Black Belt :facepunch:
